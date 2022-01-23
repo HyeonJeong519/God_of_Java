@@ -5,6 +5,8 @@ public class OperatorComparision {
     }
     public void compareboolean(){
         boolean a = true;
-        System.out.println(true==a);
+        System.out.println(a==true);
     }
+
+    
 }
